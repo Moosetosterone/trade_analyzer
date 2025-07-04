@@ -4,8 +4,8 @@ from datetime import datetime
 from statistics import mean, median
 from typing import Dict, List
 
-from data.matching import MatchRecord
-from data.schemas import Direction
+from matching.matching import MatchRecord
+from models.schemas import Direction
 
 
 @dataclass

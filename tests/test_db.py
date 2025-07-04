@@ -6,7 +6,8 @@ from datetime import datetime, timezone
 import pytest
 from sqlmodel import select
 
-from data.db import (
+from models.schemas import Direction, TradingViewSignal, TradovateFill
+from persistence.db import (
     Fill,
     Instrument,
     Signal,
@@ -15,7 +16,6 @@ from data.db import (
     insert_fill,
     insert_signal,
 )
-from data.schemas import Direction, TradingViewSignal, TradovateFill
 
 
 @pytest.fixture

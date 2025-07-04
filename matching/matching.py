@@ -3,7 +3,7 @@
 from datetime import timedelta
 from typing import List, Tuple
 
-from data.schemas import TradingViewSignal, TradovateFill
+from models.schemas import TradingViewSignal, TradovateFill
 
 
 class MatchRecord:

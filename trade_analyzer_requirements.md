@@ -211,3 +211,111 @@ I recommend using 2-week sprints. Here’s a suggested 4-sprint roadmap to get f
 - Implement Streamlit or CLI interface
 - Export broker-ready PDF report
 
+
+# Trade Analyzer
+
+A modular Python project for ingesting, normalizing, matching, and analyzing trading signals and execution fills. Follows SOLID design principles to ensure maintainability and extensibility.
+
+## 📂 Project Structure
+
+```
+trade_analyzer/
+├── data/
+│   ├── schemas.py             # Pydantic models for signals and fills
+│   ├── normalizer.py          # CSV row → model factories, timezone & format handling
+│   ├── importer.py            # CSV import pipelines for signals and fills
+│   ├── instrument_normalizer.py # Ticker normalization (external YAML config)
+│   ├── matching.py            # MatchingEngine + MatchRecord
+│   ├── pipeline.py            # run_matching_pipeline & run_full_pipeline (unmatched)
+│   ├── db.py                  # SQLite persistence (SQLModel) and upsert helpers
+│   ├── analytics.py           # SlippageRecord, compute_slippage, aggregate_slippage
+│   ├── pnl.py                 # PnLRecord, compute_trade_pnl, aggregate_daily_pnl
+│   ├── grouping.py            # Generic/group-by/filter utilities
+│   ├── summary.py             # Win rate, expectancy, equity curve, drawdown
+│   └── export.py              # CSV export utilities
+├── config/
+│   └── instrument_mapping.yaml # Overrides, month codes, rollover rules
+├── tests/                     # pytest suite covering all modules
+│   ├── test_tradingview_signal_factory.py
+│   ├── test_instrument_normalizer.py
+│   ├── test_matching_engine.py
+│   ├── test_pipeline.py
+│   ├── test_db.py
+│   ├── test_analytics.py
+│   ├── test_pnl.py
+│   ├── test_grouping.py
+│   ├── test_summary.py
+│   └── test_export.py
+├── data/                      # sample CSV files
+│   ├── TradingView_Alerts_Log_2025-07-03_790cd.csv
+│   └── Orders-4.csv
+├── pyproject.toml
+└── README.md
+```
+
+## ✅ SOLID Adherence
+
+* **Single Responsibility**: Each module/class has one purpose (e.g., normalization vs. persistence).
+* **Open/Closed**: Factories and normalizers can be extended via config files without touching core schemas.
+* **Liskov Substitution**: Interfaces (functions/classes) accept base types (`MatchRecord`, `PnLRecord`) that can be replaced.
+* **Interface Segregation**: Consumers import only what they need (e.g., `compute_slippage` without DB code).
+* **Dependency Inversion**: High-level pipelines orchestrate factories, matching, persistence without hardcoding implementations.
+
+## 📝 Documentation Guidelines
+
+* Use **Google-style docstrings** for modules, classes, and functions. See [Real Python](https://realpython.com/documenting-python-code/).
+* Include **`Args:`** and **`Returns:`** sections.
+* Document edge cases & date/time formats in docstrings.
+* Maintain documentation close to code; update README for high-level overviews.
+
+### Example Docstring
+
+```python
+def compute_slippage(
+    record: MatchRecord,
+    tick_size: float,
+    tick_value: float
+) -> SlippageRecord:
+    """
+    Compute slippage for a matched signal and fill.
+
+    Args:
+        record: MatchRecord tying signal and fill.
+        tick_size: Price increment per tick (e.g., 0.25).
+        tick_value: Dollar value per tick (e.g., 12.5).
+
+    Returns:
+        SlippageRecord: Contains slippage in ticks and dollars.
+    """
+    ...
+```
+
+## 🚀 Getting Started
+
+1. **Install** dependencies: `pip install -r requirements.txt` (includes SQLModel, pydantic)
+2. **Run tests**: `pytest tests/`
+3. **Ingest & match**:
+
+   ```bash
+   python -m data.pipeline data/TradingView_Alerts_Log.csv data/Orders-4.csv
+   ```
+4. **Analyze & export**:
+
+   ```python
+   from data.pipeline import run_full_pipeline
+   from data.pnl import compute_trade_pnl
+   from data.summary import equity_curve
+   from data.export import export_pnl_records
+
+   matches, unmatch_sigs, unmatch_fills = run_full_pipeline(...)
+   pnl_records = [compute_trade_pnl(m) for m in matches]
+   export_pnl_records(pnl_records, 'pnl.csv')
+   curve = equity_curve(pnl_records)
+   ```
+
+## 📚 Next Steps (Sprint 4)
+
+* **Dashboard**: Streamlit or Plotly for interactive equity and slippage charts.
+* **Drawdown reports**: Visualize historical drawdowns.
+* **Strategy tags**: Add strategy metadata & grouping.
+* **CI/CD**: Integrate linting, coverage, and docs generation.

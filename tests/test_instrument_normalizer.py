@@ -4,7 +4,7 @@ from datetime import datetime
 
 import pytest
 
-from data.instrument_normalizer import InstrumentNormalizer
+from normalization.instrument_normalizer import InstrumentNormalizer
 
 
 @pytest.fixture

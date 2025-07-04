@@ -8,3 +8,19 @@ profile = "black"
 [tool.pytest.ini_options]
 python_files = "test_*.py"
 testpaths = ["tests"]
+
+[tool.poetry]
+name = "trade-analyzer"
+version = "0.1.0"
+# …
+
+packages = [
+  { include = "models" },
+  { include = "ingestion" },
+  { include = "normalization" },
+  { include = "matching" },
+  { include = "persistence" },
+  { include = "analytics" },
+  { include = "export" },
+  { include = "utils" },
+]

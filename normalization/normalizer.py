@@ -5,7 +5,7 @@ from datetime import datetime
 from typing import Dict, Optional
 from zoneinfo import ZoneInfo
 
-from data.schemas import Direction, TradingViewSignal, TradovateFill
+from models.schemas import Direction, TradingViewSignal, TradovateFill
 
 
 class TradingViewSignalFactory:
