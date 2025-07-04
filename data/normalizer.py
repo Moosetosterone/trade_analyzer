@@ -15,22 +15,23 @@ class TradingViewSignalFactory:
 
     @staticmethod
     def from_csv_row(row: Dict[str, str]) -> TradingViewSignal:
-        # ─── Updated timestamp parsing ───────────────────────────────────────
+        # 1) Parse & normalize the timestamp
         ts_raw = row["Time"]
+        # try ISO8601 (with Z or an offset)
         try:
-            # e.g. "2025-07-03T14:28:01Z"
             if ts_raw.endswith("Z"):
-                ts = datetime.fromisoformat(ts_raw.replace("Z", "+00:00"))
+                dt = datetime.fromisoformat(ts_raw.replace("Z", "+00:00"))
             else:
-                ts = datetime.fromisoformat(ts_raw)
+                dt = datetime.fromisoformat(ts_raw)
         except ValueError:
-            # fall back to legacy format
-            ts = datetime.strptime(ts_raw, "%Y-%m-%d %H:%M:%S")
-            ts = ts.replace(tzinfo=TradingViewSignalFactory.UTC)
-        # ensure it's UTC-aware
-        ts = ts.astimezone(TradingViewSignalFactory.UTC)
-        row["Time"] = ts.isoformat()
-        # ─────────────────────────────────────────────────────────────────────
+            # fallback to your legacy format
+            dt = datetime.strptime(ts_raw, "%Y-%m-%d %H:%M:%S")
+        # now ensure it's tagged UTC (don't shift from local!)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=TradingViewSignalFactory.UTC)
+        else:
+            dt = dt.astimezone(TradingViewSignalFactory.UTC)
+        row["Time"] = dt.isoformat()
 
         # 2) Parse the JSON payload in 'Description'
         payload = json.loads(row["Description"])

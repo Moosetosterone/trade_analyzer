@@ -1,7 +1,7 @@
 # --------------------------------------
 # FILE: tests/test_db.py
 # --------------------------------------
-from datetime import datetime
+from datetime import datetime, timezone
 
 import pytest
 from sqlmodel import select
@@ -38,7 +38,7 @@ def sample_signal():
         raw_ticker="DUMMY",
         name=None,
         description="{}",
-        timestamp=datetime.utcnow(),
+        timestamp=datetime.now(timezone.utc),
         symbol="MESM25",
         direction=Direction.BUY,
         price=100.0,
@@ -58,7 +58,7 @@ def sample_fill():
         contract="MESM25",
         filled_qty=2,
         fill_price=101.0,
-        timestamp=datetime.utcnow(),
+        timestamp=datetime.now(timezone.utc),
         status="Filled",
         order_type="Market",
         limit_price=None,
