@@ -37,14 +37,9 @@ def run_full_pipeline(
 
     engine = MatchingEngine(timedelta(minutes=tolerance_min))
     matches = engine.match(signals, fills)
-
-    # Identify unmatched items
-    matched_signals = {m.signal for m in matches}
-    matched_fills = {m.fill for m in matches}
-
-    unmatched_signals = [s for s in signals if s not in matched_signals]
-    unmatched_fills = [f for f in fills if f not in matched_fills]
-
+    # avoid hashing unhashable models—use any(...) to filter
+    unmatched_signals = [s for s in signals if not any(m.signal == s for m in matches)]
+    unmatched_fills = [f for f in fills if not any(m.fill == f for m in matches)]
     return matches, unmatched_signals, unmatched_fills
 
 

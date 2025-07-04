@@ -1,0 +1,1621 @@
+Alert ID,Ticker,Name,Description,Time
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6284.00"",
+    ""time"": ""2025-07-04T16:50:06Z""
+}",2025-07-04T16:50:06Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.25"",
+    ""time"": ""2025-07-04T15:30:53Z""
+}",2025-07-04T15:30:53Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6286.75"",
+    ""time"": ""2025-07-04T15:25:00Z""
+}",2025-07-04T15:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6288.75"",
+    ""time"": ""2025-07-04T14:28:41Z""
+}",2025-07-04T14:28:41Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6286.25"",
+    ""time"": ""2025-07-04T14:15:00Z""
+}",2025-07-04T14:15:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6288.50"",
+    ""time"": ""2025-07-04T13:58:02Z""
+}",2025-07-04T13:58:02Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6286.00"",
+    ""time"": ""2025-07-04T13:45:00Z""
+}",2025-07-04T13:45:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6285.50"",
+    ""time"": ""2025-07-04T13:23:40Z""
+}",2025-07-04T13:23:40Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6283.00"",
+    ""time"": ""2025-07-04T13:20:05Z""
+}",2025-07-04T13:20:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6282.50"",
+    ""time"": ""2025-07-04T13:16:22Z""
+}",2025-07-04T13:16:22Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6285.00"",
+    ""time"": ""2025-07-04T12:30:00Z""
+}",2025-07-04T12:30:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.25"",
+    ""time"": ""2025-07-04T12:01:08Z""
+}",2025-07-04T12:01:08Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6284.75"",
+    ""time"": ""2025-07-04T11:45:07Z""
+}",2025-07-04T11:45:07Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6288.00"",
+    ""time"": ""2025-07-04T11:15:31Z""
+}",2025-07-04T11:15:31Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6285.50"",
+    ""time"": ""2025-07-04T11:15:01Z""
+}",2025-07-04T11:15:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6284.00"",
+    ""time"": ""2025-07-04T11:01:35Z""
+}",2025-07-04T11:01:35Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6281.50"",
+    ""time"": ""2025-07-04T11:00:00Z""
+}",2025-07-04T11:00:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6290.00"",
+    ""time"": ""2025-07-04T10:37:21Z""
+}",2025-07-04T10:37:21Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.25"",
+    ""time"": ""2025-07-04T10:35:01Z""
+}",2025-07-04T10:35:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.50"",
+    ""time"": ""2025-07-04T10:05:56Z""
+}",2025-07-04T10:05:56Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6290.00"",
+    ""time"": ""2025-07-04T09:55:01Z""
+}",2025-07-04T09:55:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.75"",
+    ""time"": ""2025-07-04T09:52:00Z""
+}",2025-07-04T09:52:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.00"",
+    ""time"": ""2025-07-04T09:40:05Z""
+}",2025-07-04T09:40:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6285.00"",
+    ""time"": ""2025-07-04T09:33:00Z""
+}",2025-07-04T09:33:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.50"",
+    ""time"": ""2025-07-04T09:25:12Z""
+}",2025-07-04T09:25:12Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.75"",
+    ""time"": ""2025-07-04T09:09:08Z""
+}",2025-07-04T09:09:08Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6287.25"",
+    ""time"": ""2025-07-04T09:05:01Z""
+}",2025-07-04T09:05:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.50"",
+    ""time"": ""2025-07-04T08:46:25Z""
+}",2025-07-04T08:46:25Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6292.00"",
+    ""time"": ""2025-07-04T08:40:00Z""
+}",2025-07-04T08:40:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6292.00"",
+    ""time"": ""2025-07-04T08:22:31Z""
+}",2025-07-04T08:22:31Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.50"",
+    ""time"": ""2025-07-04T08:20:00Z""
+}",2025-07-04T08:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6292.00"",
+    ""time"": ""2025-07-04T07:56:15Z""
+}",2025-07-04T07:56:15Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6294.50"",
+    ""time"": ""2025-07-04T07:55:02Z""
+}",2025-07-04T07:55:02Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6295.00"",
+    ""time"": ""2025-07-04T07:46:32Z""
+}",2025-07-04T07:46:32Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6297.50"",
+    ""time"": ""2025-07-04T07:35:00Z""
+}",2025-07-04T07:35:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6293.75"",
+    ""time"": ""2025-07-04T07:31:08Z""
+}",2025-07-04T07:31:08Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6296.75"",
+    ""time"": ""2025-07-04T07:25:03Z""
+}",2025-07-04T07:25:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6301.00"",
+    ""time"": ""2025-07-04T07:05:31Z""
+}",2025-07-04T07:05:31Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6303.50"",
+    ""time"": ""2025-07-04T07:05:00Z""
+}",2025-07-04T07:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6303.50"",
+    ""time"": ""2025-07-04T06:47:29Z""
+}",2025-07-04T06:47:29Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6306.00"",
+    ""time"": ""2025-07-04T06:20:01Z""
+}",2025-07-04T06:20:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6305.50"",
+    ""time"": ""2025-07-04T06:04:03Z""
+}",2025-07-04T06:04:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6308.00"",
+    ""time"": ""2025-07-04T05:55:05Z""
+}",2025-07-04T05:55:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6308.00"",
+    ""time"": ""2025-07-04T05:45:40Z""
+}",2025-07-04T05:45:40Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6305.50"",
+    ""time"": ""2025-07-04T05:40:05Z""
+}",2025-07-04T05:40:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6303.75"",
+    ""time"": ""2025-07-04T05:34:55Z""
+}",2025-07-04T05:34:55Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6306.25"",
+    ""time"": ""2025-07-04T04:45:04Z""
+}",2025-07-04T04:45:04Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6306.25"",
+    ""time"": ""2025-07-04T04:25:36Z""
+}",2025-07-04T04:25:36Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6309.00"",
+    ""time"": ""2025-07-04T03:55:04Z""
+}",2025-07-04T03:55:04Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6308.00"",
+    ""time"": ""2025-07-04T03:40:46Z""
+}",2025-07-04T03:40:46Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6310.50"",
+    ""time"": ""2025-07-04T03:15:00Z""
+}",2025-07-04T03:15:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6308.50"",
+    ""time"": ""2025-07-04T03:05:09Z""
+}",2025-07-04T03:05:09Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6311.25"",
+    ""time"": ""2025-07-04T02:25:00Z""
+}",2025-07-04T02:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6315.00"",
+    ""time"": ""2025-07-04T01:56:13Z""
+}",2025-07-04T01:56:13Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6317.50"",
+    ""time"": ""2025-07-04T01:25:02Z""
+}",2025-07-04T01:25:02Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6315.00"",
+    ""time"": ""2025-07-04T01:17:01Z""
+}",2025-07-04T01:17:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6312.50"",
+    ""time"": ""2025-07-04T00:50:01Z""
+}",2025-07-04T00:50:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6312.25"",
+    ""time"": ""2025-07-04T00:23:06Z""
+}",2025-07-04T00:23:06Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6314.75"",
+    ""time"": ""2025-07-04T00:15:00Z""
+}",2025-07-04T00:15:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6313.00"",
+    ""time"": ""2025-07-04T00:07:29Z""
+}",2025-07-04T00:07:29Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6315.50"",
+    ""time"": ""2025-07-03T23:50:01Z""
+}",2025-07-03T23:50:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6316.50"",
+    ""time"": ""2025-07-03T23:25:05Z""
+}",2025-07-03T23:25:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6316.25"",
+    ""time"": ""2025-07-03T23:13:23Z""
+}",2025-07-03T23:13:23Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6318.75"",
+    ""time"": ""2025-07-03T23:05:00Z""
+}",2025-07-03T23:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6321.50"",
+    ""time"": ""2025-07-03T22:37:49Z""
+}",2025-07-03T22:37:49Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6319.00"",
+    ""time"": ""2025-07-03T22:10:00Z""
+}",2025-07-03T22:10:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6320.50"",
+    ""time"": ""2025-07-03T22:00:00Z""
+}",2025-07-03T22:00:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6321.50"",
+    ""time"": ""2025-07-03T17:11:20Z""
+}",2025-07-03T17:11:20Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6324.00"",
+    ""time"": ""2025-07-03T17:05:00Z""
+}",2025-07-03T17:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6333.50"",
+    ""time"": ""2025-07-03T16:40:58Z""
+}",2025-07-03T16:40:58Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6329.50"",
+    ""time"": ""2025-07-03T16:35:00Z""
+}",2025-07-03T16:35:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6330.00"",
+    ""time"": ""2025-07-03T15:41:39Z""
+}",2025-07-03T15:41:39Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6327.50"",
+    ""time"": ""2025-07-03T15:40:00Z""
+}",2025-07-03T15:40:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6326.75"",
+    ""time"": ""2025-07-03T15:31:18Z""
+}",2025-07-03T15:31:18Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6324.25"",
+    ""time"": ""2025-07-03T15:30:00Z""
+}",2025-07-03T15:30:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6325.50"",
+    ""time"": ""2025-07-03T15:18:06Z""
+}",2025-07-03T15:18:06Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6328.00"",
+    ""time"": ""2025-07-03T15:15:00Z""
+}",2025-07-03T15:15:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6327.50"",
+    ""time"": ""2025-07-03T15:07:04Z""
+}",2025-07-03T15:07:04Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6325.00"",
+    ""time"": ""2025-07-03T15:05:00Z""
+}",2025-07-03T15:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6324.50"",
+    ""time"": ""2025-07-03T14:41:33Z""
+}",2025-07-03T14:41:33Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6322.00"",
+    ""time"": ""2025-07-03T14:40:00Z""
+}",2025-07-03T14:40:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6321.50"",
+    ""time"": ""2025-07-03T14:37:05Z""
+}",2025-07-03T14:37:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6319.00"",
+    ""time"": ""2025-07-03T14:20:00Z""
+}",2025-07-03T14:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6315.25"",
+    ""time"": ""2025-07-03T14:15:22Z""
+}",2025-07-03T14:15:22Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6295.00"",
+    ""time"": ""2025-07-03T13:28:06Z""
+}",2025-07-03T13:28:06Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6292.50"",
+    ""time"": ""2025-07-03T13:25:00Z""
+}",2025-07-03T13:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6291.50"",
+    ""time"": ""2025-07-03T13:06:36Z""
+}",2025-07-03T13:06:36Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6289.00"",
+    ""time"": ""2025-07-03T13:05:00Z""
+}",2025-07-03T13:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6288.50"",
+    ""time"": ""2025-07-03T13:02:54Z""
+}",2025-07-03T13:02:54Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6286.00"",
+    ""time"": ""2025-07-03T12:55:00Z""
+}",2025-07-03T12:55:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.75"",
+    ""time"": ""2025-07-03T12:30:00Z""
+}",2025-07-03T12:30:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.75"",
+    ""time"": ""2025-07-03T12:30:00Z""
+}",2025-07-03T12:30:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6283.25"",
+    ""time"": ""2025-07-03T12:04:15Z""
+}",2025-07-03T12:04:15Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.75"",
+    ""time"": ""2025-07-03T12:00:00Z""
+}",2025-07-03T12:00:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.50"",
+    ""time"": ""2025-07-03T11:58:22Z""
+}",2025-07-03T11:58:22Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.00"",
+    ""time"": ""2025-07-03T11:45:00Z""
+}",2025-07-03T11:45:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.25"",
+    ""time"": ""2025-07-03T11:37:23Z""
+}",2025-07-03T11:37:23Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.75"",
+    ""time"": ""2025-07-03T11:20:00Z""
+}",2025-07-03T11:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.00"",
+    ""time"": ""2025-07-03T11:11:51Z""
+}",2025-07-03T11:11:51Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.50"",
+    ""time"": ""2025-07-03T10:55:02Z""
+}",2025-07-03T10:55:02Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.00"",
+    ""time"": ""2025-07-03T10:45:35Z""
+}",2025-07-03T10:45:35Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6274.50"",
+    ""time"": ""2025-07-03T10:15:01Z""
+}",2025-07-03T10:15:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.00"",
+    ""time"": ""2025-07-03T09:58:02Z""
+}",2025-07-03T09:58:02Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.50"",
+    ""time"": ""2025-07-03T09:50:00Z""
+}",2025-07-03T09:50:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.25"",
+    ""time"": ""2025-07-03T09:21:50Z""
+}",2025-07-03T09:21:50Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.75"",
+    ""time"": ""2025-07-03T09:05:00Z""
+}",2025-07-03T09:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.50"",
+    ""time"": ""2025-07-03T08:44:56Z""
+}",2025-07-03T08:44:56Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6281.25"",
+    ""time"": ""2025-07-03T08:05:00Z""
+}",2025-07-03T08:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6284.00"",
+    ""time"": ""2025-07-03T07:27:13Z""
+}",2025-07-03T07:27:13Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6281.50"",
+    ""time"": ""2025-07-03T07:20:00Z""
+}",2025-07-03T07:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.75"",
+    ""time"": ""2025-07-03T07:00:01Z""
+}",2025-07-03T07:00:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6283.50"",
+    ""time"": ""2025-07-03T06:45:01Z""
+}",2025-07-03T06:45:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6277.50"",
+    ""time"": ""2025-07-03T05:49:01Z""
+}",2025-07-03T05:49:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6280.25"",
+    ""time"": ""2025-07-03T05:00:00Z""
+}",2025-07-03T05:00:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6282.00"",
+    ""time"": ""2025-07-03T04:26:38Z""
+}",2025-07-03T04:26:38Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.50"",
+    ""time"": ""2025-07-03T04:05:03Z""
+}",2025-07-03T04:05:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.25"",
+    ""time"": ""2025-07-03T03:56:15Z""
+}",2025-07-03T03:56:15Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6281.75"",
+    ""time"": ""2025-07-03T03:35:02Z""
+}",2025-07-03T03:35:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6282.25"",
+    ""time"": ""2025-07-03T03:26:12Z""
+}",2025-07-03T03:26:12Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.75"",
+    ""time"": ""2025-07-03T03:20:00Z""
+}",2025-07-03T03:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.00"",
+    ""time"": ""2025-07-03T03:15:15Z""
+}",2025-07-03T03:15:15Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6275.50"",
+    ""time"": ""2025-07-03T02:55:00Z""
+}",2025-07-03T02:55:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6275.00"",
+    ""time"": ""2025-07-03T02:49:00Z""
+}",2025-07-03T02:49:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6272.50"",
+    ""time"": ""2025-07-03T02:40:05Z""
+}",2025-07-03T02:40:05Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6272.00"",
+    ""time"": ""2025-07-03T02:30:04Z""
+}",2025-07-03T02:30:04Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6274.50"",
+    ""time"": ""2025-07-03T02:20:01Z""
+}",2025-07-03T02:20:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.00"",
+    ""time"": ""2025-07-03T01:25:13Z""
+}",2025-07-03T01:25:13Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.50"",
+    ""time"": ""2025-07-03T01:20:00Z""
+}",2025-07-03T01:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.00"",
+    ""time"": ""2025-07-03T01:03:12Z""
+}",2025-07-03T01:03:12Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.50"",
+    ""time"": ""2025-07-03T00:45:00Z""
+}",2025-07-03T00:45:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6275.75"",
+    ""time"": ""2025-07-03T00:32:01Z""
+}",2025-07-03T00:32:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.25"",
+    ""time"": ""2025-07-03T00:20:03Z""
+}",2025-07-03T00:20:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6279.00"",
+    ""time"": ""2025-07-03T00:11:51Z""
+}",2025-07-03T00:11:51Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.50"",
+    ""time"": ""2025-07-02T22:55:08Z""
+}",2025-07-02T22:55:08Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6276.25"",
+    ""time"": ""2025-07-02T22:41:30Z""
+}",2025-07-02T22:41:30Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6273.75"",
+    ""time"": ""2025-07-02T22:25:08Z""
+}",2025-07-02T22:25:08Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6275.75"",
+    ""time"": ""2025-07-02T22:00:00Z""
+}",2025-07-02T22:00:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6278.75"",
+    ""time"": ""2025-07-02T20:55:00Z""
+}",2025-07-02T20:55:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6274.50"",
+    ""time"": ""2025-07-02T20:38:13Z""
+}",2025-07-02T20:38:13Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6272.00"",
+    ""time"": ""2025-07-02T20:25:00Z""
+}",2025-07-02T20:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6272.75"",
+    ""time"": ""2025-07-02T19:50:00Z""
+}",2025-07-02T19:50:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6270.25"",
+    ""time"": ""2025-07-02T19:45:00Z""
+}",2025-07-02T19:45:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6269.00"",
+    ""time"": ""2025-07-02T19:38:26Z""
+}",2025-07-02T19:38:26Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6271.50"",
+    ""time"": ""2025-07-02T19:25:00Z""
+}",2025-07-02T19:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6270.75"",
+    ""time"": ""2025-07-02T18:40:59Z""
+}",2025-07-02T18:40:59Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6268.25"",
+    ""time"": ""2025-07-02T18:20:00Z""
+}",2025-07-02T18:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6269.25"",
+    ""time"": ""2025-07-02T17:53:27Z""
+}",2025-07-02T17:53:27Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6266.75"",
+    ""time"": ""2025-07-02T17:50:00Z""
+}",2025-07-02T17:50:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6263.50"",
+    ""time"": ""2025-07-02T17:20:47Z""
+}",2025-07-02T17:20:47Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6266.00"",
+    ""time"": ""2025-07-02T17:15:00Z""
+}",2025-07-02T17:15:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6264.75"",
+    ""time"": ""2025-07-02T17:09:14Z""
+}",2025-07-02T17:09:14Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6267.25"",
+    ""time"": ""2025-07-02T16:40:00Z""
+}",2025-07-02T16:40:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6265.75"",
+    ""time"": ""2025-07-02T16:38:01Z""
+}",2025-07-02T16:38:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6263.25"",
+    ""time"": ""2025-07-02T16:10:00Z""
+}",2025-07-02T16:10:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6262.25"",
+    ""time"": ""2025-07-02T15:58:03Z""
+}",2025-07-02T15:58:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6264.75"",
+    ""time"": ""2025-07-02T15:50:00Z""
+}",2025-07-02T15:50:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6264.25"",
+    ""time"": ""2025-07-02T15:35:30Z""
+}",2025-07-02T15:35:30Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6261.75"",
+    ""time"": ""2025-07-02T15:35:01Z""
+}",2025-07-02T15:35:01Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6261.75"",
+    ""time"": ""2025-07-02T15:21:53Z""
+}",2025-07-02T15:21:53Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6259.25"",
+    ""time"": ""2025-07-02T15:20:00Z""
+}",2025-07-02T15:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6259.00"",
+    ""time"": ""2025-07-02T15:10:07Z""
+}",2025-07-02T15:10:07Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6261.50"",
+    ""time"": ""2025-07-02T15:05:00Z""
+}",2025-07-02T15:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6254.25"",
+    ""time"": ""2025-07-02T14:25:06Z""
+}",2025-07-02T14:25:06Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6251.75"",
+    ""time"": ""2025-07-02T14:20:00Z""
+}",2025-07-02T14:20:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6251.50"",
+    ""time"": ""2025-07-02T14:06:54Z""
+}",2025-07-02T14:06:54Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6249.00"",
+    ""time"": ""2025-07-02T14:05:00Z""
+}",2025-07-02T14:05:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6244.50"",
+    ""time"": ""2025-07-02T13:55:24Z""
+}",2025-07-02T13:55:24Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6247.00"",
+    ""time"": ""2025-07-02T13:55:00Z""
+}",2025-07-02T13:55:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6242.25"",
+    ""time"": ""2025-07-02T13:43:33Z""
+}",2025-07-02T13:43:33Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6244.75"",
+    ""time"": ""2025-07-02T13:40:00Z""
+}",2025-07-02T13:40:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6247.00"",
+    ""time"": ""2025-07-02T13:28:00Z""
+}",2025-07-02T13:28:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6243.00"",
+    ""time"": ""2025-07-02T13:25:00Z""
+}",2025-07-02T13:25:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6241.75"",
+    ""time"": ""2025-07-02T13:01:28Z""
+}",2025-07-02T13:01:28Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6239.25"",
+    ""time"": ""2025-07-02T12:50:00Z""
+}",2025-07-02T12:50:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6253.00"",
+    ""time"": ""2025-07-02T12:12:22Z""
+}",2025-07-02T12:12:22Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6250.50"",
+    ""time"": ""2025-07-02T12:10:00Z""
+}",2025-07-02T12:10:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6247.50"",
+    ""time"": ""2025-07-02T12:00:31Z""
+}",2025-07-02T12:00:31Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6250.00"",
+    ""time"": ""2025-07-02T12:00:00Z""
+}",2025-07-02T12:00:00Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""sell"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""flat"",
+    ""quantity"": ""1"",
+    ""price"": ""6253.25"",
+    ""time"": ""2025-07-02T11:48:03Z""
+}",2025-07-02T11:48:03Z
+2554581316,"CME_MINI:MESU2025, 5m",,"{
+    ""ticker"": ""MESU2025"",
+    ""action"": ""buy"",
+    ""orderType"": ""Market"",
+    ""sentiment"": ""long"",
+    ""quantity"": ""1"",
+    ""price"": ""6255.75"",
+    ""time"": ""2025-07-02T11:40:15Z""
+}",2025-07-02T11:40:15Z
