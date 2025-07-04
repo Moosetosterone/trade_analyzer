@@ -3,9 +3,9 @@ from datetime import date, datetime, timedelta, timezone
 
 import pytest
 
-from data.matching import MatchRecord
-from data.pnl import PnLRecord, aggregate_daily_pnl, compute_trade_pnl
-from data.schemas import Direction, TradingViewSignal, TradovateFill
+from analytics.pnl import PnLRecord, aggregate_daily_pnl, compute_trade_pnl
+from matching.matching import MatchRecord
+from models.schemas import Direction, TradingViewSignal, TradovateFill
 
 # -- Helper functions to build sample MatchRecord
 

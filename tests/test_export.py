@@ -4,8 +4,8 @@ from datetime import date
 
 import pytest
 
-from data.export import export_daily_summary, export_pnl_records
-from data.pnl import PnLRecord
+from analytics.pnl import PnLRecord
+from export.export import export_daily_summary, export_pnl_records
 
 
 @pytest.fixture

@@ -2,13 +2,13 @@ from datetime import date
 
 import pytest
 
-from data.grouping import (
+from analytics.pnl import PnLRecord
+from utils.grouping import (
     filter_by_date_range,
     group_by,
     group_by_date,
     group_by_instrument,
 )
-from data.pnl import PnLRecord
 
 
 # Helper to create a generic record with symbol and date attributes

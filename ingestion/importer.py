@@ -3,9 +3,9 @@
 import csv
 from typing import Dict, Iterator
 
-from data.instrument_normalizer import InstrumentNormalizer
-from data.normalizer import TradingViewSignalFactory, TradovateFillFactory
-from data.schemas import TradingViewSignal, TradovateFill
+from models.schemas import TradingViewSignal, TradovateFill
+from normalization.instrument_normalizer import InstrumentNormalizer
+from normalization.normalizer import TradingViewSignalFactory, TradovateFillFactory
 
 # load once at module import
 _instrument_norm = InstrumentNormalizer("config/instrument_mapping.yaml")

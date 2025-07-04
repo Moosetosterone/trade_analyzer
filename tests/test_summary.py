@@ -3,8 +3,8 @@ from datetime import date
 
 import pytest
 
-from data.pnl import PnLRecord
-from data.summary import equity_curve, expectancy, max_drawdown, win_rate
+from analytics.pnl import PnLRecord
+from analytics.summary import equity_curve, expectancy, max_drawdown, win_rate
 
 
 @pytest.fixture

@@ -5,8 +5,8 @@ from zoneinfo import ZoneInfo
 
 import pytest
 
-from data.matching import MatchingEngine, MatchRecord
-from data.schemas import Direction, TradingViewSignal, TradovateFill
+from matching.matching import MatchingEngine, MatchRecord
+from models.schemas import Direction, TradingViewSignal, TradovateFill
 
 UTC = ZoneInfo("UTC")
 

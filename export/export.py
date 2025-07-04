@@ -3,7 +3,7 @@ import csv
 from datetime import date
 from typing import Dict, List, Union
 
-from data.pnl import PnLRecord
+from analytics.pnl import PnLRecord
 
 
 def export_pnl_records(pnl_records: List[PnLRecord], filepath: str) -> None:

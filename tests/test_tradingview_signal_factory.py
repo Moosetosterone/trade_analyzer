@@ -6,8 +6,8 @@ from zoneinfo import ZoneInfo
 
 import pytest
 
-from data.normalizer import TradingViewSignalFactory
-from data.schemas import Direction
+from models.schemas import Direction
+from normalization.normalizer import TradingViewSignalFactory
 
 
 @pytest.fixture

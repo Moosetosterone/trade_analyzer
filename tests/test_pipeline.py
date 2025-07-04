@@ -4,8 +4,8 @@ import os
 
 import pytest
 
-from data.matching import MatchRecord
-from data.pipeline import run_matching_pipeline
+from ingestion.pipeline import run_matching_pipeline
+from matching.matching import MatchRecord
 
 HERE = os.path.dirname(__file__)
 TV_CSV = os.path.join(

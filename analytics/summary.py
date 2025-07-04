@@ -2,7 +2,7 @@
 from datetime import date
 from typing import Dict, List, Tuple
 
-from data.pnl import PnLRecord
+from analytics.pnl import PnLRecord
 
 
 def win_rate(records: List[PnLRecord]) -> float:

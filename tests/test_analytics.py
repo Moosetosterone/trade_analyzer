@@ -3,9 +3,9 @@ from datetime import datetime, timezone
 
 import pytest
 
-from data.analytics import SlippageRecord, aggregate_slippage, compute_slippage
-from data.matching import MatchRecord
-from data.schemas import Direction, TradingViewSignal, TradovateFill
+from analytics.analytics import SlippageRecord, aggregate_slippage, compute_slippage
+from matching.matching import MatchRecord
+from models.schemas import Direction, TradingViewSignal, TradovateFill
 
 # Helpers to build sample match records
 
